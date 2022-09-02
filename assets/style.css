@@ -1,0 +1,28 @@
+body {
+    background-image: url("https://i.kym-cdn.com/entries/icons/facebook/000/039/973/9.jpg");
+    text-align:center;
+}jpeg
+#meme.head {
+    text-align: center;
+    font-size: 50px;
+    background: brown;
+}
+#enter-btn {
+    background: darkgray;
+    margin-bottom: 350px;
+}
+#el-like {
+    background: darkgreen;
+    margin-right: 100px;
+}
+#el-dislike {
+    background: red;
+    margin-right:100px;
+}
+#gains {
+    background: darkred;
+}
+#meme-img {
+    width: 200px;
+    height:200px;
+}
